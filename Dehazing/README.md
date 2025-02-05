@@ -19,6 +19,9 @@ python main.py --mode train --data_dir your_path/reside-outdoor
 
 ### Evaluation
 #### Download the model [here](https://drive.google.com/drive/folders/1bZb9L660t4jL2wAqr23iTg6eyAnCuUBt?usp=sharing)
+
+**Please use the *pillow* package downloaded by Conda instead of pip.**
+
 #### Testing on SOTS-Indoor
 ~~~
 cd ITS
